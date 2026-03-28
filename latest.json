@@ -1,6 +1,6 @@
 {
-  "version": "1.0.32",
-  "mac_download_url": "https://github.com/amandeep-punjabi/Planora-Updates/releases/download/v1.0.32/Planora.dmg",
-  "windows_download_url": "https://github.com/amandeep-punjabi/Planora-Updates/releases/download/v1.0.32/Planora-1.0.32-Setup.exe",
+  "version": "1.0.33",
+  "mac_download_url": "https://github.com/amandeep-punjabi/Planora-Updates/releases/download/v1.0.33/Planora-1.0.33-macOS.dmg",
+  "windows_download_url": "https://github.com/amandeep-punjabi/Planora-Updates/releases/download/v1.0.33/Planora-1.0.33-Setup.exe",
   "download_url": "https://github.com/amandeep-punjabi/Planora-Updates/releases/latest"
 }
